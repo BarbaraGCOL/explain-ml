@@ -1,9 +1,3 @@
 # Explain-ML
 
-<iframe width="560" height="315"
-  src="https://youtu.be/Ycqpr2kMK3c" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
+<a href="https://www.youtube.com/watch?v=Ycqpr2kMK3c" target="_blank"><img src="video_screenshot.png" width="450" alt="Explain-ML promo video"/></a>
