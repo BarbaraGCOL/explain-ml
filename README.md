@@ -4,7 +4,7 @@ Explain-ML is a web based  application, developed using the  Python Web framewor
 
 The design process adopted to develop Explain-ML was a user-centric design, which allowed us to consider users' views and perspectives on what aspects would be relevant in an ML explainability tool. Thus, our design process included (i) Persona and Scenarios definition to guide the design process, (ii) interviews with users to better define our requirements, (iii) development of a prototype to represent our requirements-based solution and a (iv) evaluation of this prototype to better guide the (v) tool development.
 
-Explain-ML is based on the work presented in [this paper](https://arxiv.org/abs/1602.04938) ([bibtex here for citation](citation.bib))
+Explain-ML is based on the work presented in [bibtex here for citation](citation.bib)
 
 Although there is a functional version of Explain-ML, it is not yet available to the general public because it  is still in development and is a research prototype, with still much to be improved and new investigations to be performed. Furthermore, making it available would require creating a solution to store and maintain users’ data which is a challenge for creating a product, but not for the research being conducted.
 
